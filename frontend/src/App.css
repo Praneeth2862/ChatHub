@@ -1,0 +1,31 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Onest:wght@700&family=Poppins:wght@300;500&family=Ubuntu:wght@700&display=swap');
+.home{
+  width:100%;
+  height:100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.chat-page{
+  background-color: #1a1625;
+  width:100%;
+  height: 100vh;
+  position: relative;
+  
+}
+::-webkit-scrollbar-track
+{
+	-webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
+	background:transparent
+}
+
+::-webkit-scrollbar
+{
+	width: 6px;
+	background-color: transparent;
+}
+::-webkit-scrollbar-thumb
+{
+	background-color:#8C14D0;
+}
